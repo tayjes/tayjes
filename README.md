@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tαyʝes</h1>
-<h3 align="center">Electronics & Computer Engineering undergrad | AI, IoT,Embedded systems & Full-Stack Developer | Building scalable systems & smart machines</h3>
+<h3 align="center">Electronics & Computer Engineering undergrad at VIT| AI, IoT and Embedded systems,APP and Backend Developer | Building scalable systems & smart machines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayjes&label=Profile%20views&color=0e75b6&style=flat" alt="tayjes" /> </p>
 
