@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayjes" alt="tayjes" /></a> </p>
 
-- 🔭 I’m currently working on **Home cloud Server**
+- 🔭 I’m currently working on [Home cloud Server](https://github.com/tayjes/Home_Server)
 
 - 🌱 I’m currently learning **Tensorflow**
 
