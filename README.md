@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Home cloud Server](https://github.com/tayjes/Home_Server)
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **FreeRTOS**
 
 - 👯 I’m looking to collaborate on [IOT-Reflexology analysis](https://github.com/tayjes/Insole)
 
