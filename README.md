@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tayjes P
 
-### Electronics & Computer Engineering Undergraduate | Backend Developer | AI/ML | IoT & Embedded Systems
+### Electronics & Computer Engineering Undergraduate | Backend Developer | AI/ML | Devops & Cloud
 
 I enjoy building intelligent systems that bridge the gap between **software, hardware, and the real world**. From scalable backend architectures and cloud infrastructure to autonomous IoT devices and AI-powered applications, I love turning complex ideas into practical solutions.
 
@@ -10,7 +10,7 @@ I enjoy building intelligent systems that bridge the gap between **software, har
 - 👯 Open to collaborating on: Devops and cloud, AI/ML & Embedded Systems projects
 - 💡 Interested in: Devops,Backend Engineering, Distributed Systems, AI/ML
 - 📫 Reach me: [**tayjes2005@gmail.com**](mailto:tayjes2005@gmail.com)
-- 📄 [View My Resume](https://drive.google.com/file/d/1pwqYpNKxTFwrzR5fa6MNmJwTiWEJ-O0H/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1WpXxGTUzq7pFQfFXIpTRO9DH8D0vA6yQ/view?usp=sharing)
 
 ---
 
