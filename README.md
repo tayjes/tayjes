@@ -5,11 +5,11 @@
 I enjoy building intelligent systems that bridge the gap between **software, hardware, and the real world**. From scalable backend architectures and cloud infrastructure to autonomous IoT devices and AI-powered applications, I love turning complex ideas into practical solutions.
 
 - 🎓 B.Tech Electronics and Computer Engineering @ VIT Chennai (2023–2027)
-- 🔭 Currently building: [Home Cloud Server](https://github.com/tayjes/Home_Server)
-- 🌱 Currently exploring: FreeRTOS, Embedded Systems & Cloud Infrastructure
-- 👯 Open to collaborating on: [IoT Reflexology Analysis](https://github.com/tayjes/Insole)
-- 💡 Interested in: Backend Engineering, Distributed Systems, AI/ML, IoT & Robotics
-- 📫 Reach me: **tayjes2005@gmail.com**
+- 🔭 Currently building: [Saga AI](https://github.com/tayjes/saga_I)
+- 🌱 Currently exploring: Agentic AI,Devops & Cloud Infrastructure
+- 👯 Open to collaborating on: Devops and cloud, AI/ML & Embedded Systems projects
+- 💡 Interested in: Devops,Backend Engineering, Distributed Systems, AI/ML
+- 📫 Reach me: [**tayjes2005@gmail.com**](mailto:tayjes2005@gmail.com)
 - 📄 [View My Resume](https://drive.google.com/file/d/1pwqYpNKxTFwrzR5fa6MNmJwTiWEJ-O0H/view?usp=drive_link)
 
 ---
@@ -17,40 +17,63 @@ I enjoy building intelligent systems that bridge the gap between **software, har
 ## 💻 Tech Stack & Tools
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
+
+
+
+
+
+
+
+
 
 ### Backend & App Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+
+
+
+
+
+
 
 ### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### AI / ML, Embedded & DevOps
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔍 Network Scanner & Camera Detection System
+
 **C++ | Python | FastAPI | OpenCV | Scapy | Pybind11 | Docker**
 
 - Developed a high-performance Layer-2 ARP scanner using C++ raw sockets.
@@ -58,32 +81,30 @@ I enjoy building intelligent systems that bridge the gap between **software, har
 - Implemented MAC vendor fingerprinting using a 40,000+ entry OUI database.
 - Built IP camera detection, RTSP stream discovery and live MJPEG streaming.
 - Integrated a FastAPI and OpenCV proxy inside a headless Docker container.
+- [Explore Repository](https://github.com/tayjes/Home_Server)
 
 ### 🌱 Agri Rover
+
 **C++ | Node.js | Flutter | MongoDB | Firebase | IoT**
 
 - Built an autonomous IoT rover with low-level motor control and real-time sensor feedback.
 - Developed REST APIs and a Flutter application for remote monitoring.
 - Integrated soil analysis, automated seed sowing and ML-driven irrigation scheduling.
 - Reduced manual agricultural labour by 40% and improved crop yield predictability by 25%.
+- [Explore Repository](https://github.com/tayjes/AGRI-Smart-Rover)
 
-### ☁️ Home Cloud Server
-**Backend | Cloud Infrastructure | Self-hosting**
+### 🤖 Saga AI
 
-- Currently working on a personal cloud server project.
-- [Explore Repository](https://github.com/tayjes/Home_Server)
+**AI | Software Development**
 
-### 🦶 IoT Reflexology Analysis
-**IoT | Embedded Systems | Data Analysis**
-
-- Exploring intelligent insole-based reflexology analysis.
-- [Explore Repository](https://github.com/tayjes/Insole)
+- Currently working on Saga AI.
+- [Explore Repository](https://github.com/tayjes/saga_I)
 
 ---
 
 ## 💼 Experience
 
-**Python Developer Intern — Overload Ware Labs AI**  
+**Python Developer Intern — Overload Ware Labs AI**
 *July 2025 – August 2025*
 
 - Designed a modular FastAPI backend with JWT authentication, Pydantic validation and password hashing.
@@ -92,7 +113,7 @@ I enjoy building intelligent systems that bridge the gap between **software, har
 - Developed a Flutter interface with Lottie animations.
 - Containerized the application using Docker, reducing cloud setup time by 50%.
 
-**IoT Developer Intern — ARCEDUS TECH**  
+**IoT Developer Intern — ARCEDUS TECH**
 *May 2025 – June 2025*
 
 - Integrated encoders, motors, GPS and LoRa sensors with ML models.
@@ -144,5 +165,5 @@ I enjoy building intelligent systems that bridge the gap between **software, har
 </p>
 
 <p align="center">
-  <i>"Building at the intersection of code, intelligence, and hardware."</i>
+  <i>"Always curious, always building, always learning."</i>
 </p>
