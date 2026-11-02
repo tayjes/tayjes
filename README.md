@@ -1,27 +1,148 @@
-<h1 align="center">Hi 👋, I'm Tαyʝes</h1>
-<h3 align="center">Electronics & Computer Engineering undergrad at VIT| AI, IoT and Embedded systems,APP and Backend Developer | Building scalable systems & smart machines</h3>
+# 👋 Hi, I'm Tayjes P
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayjes&label=Profile%20views&color=0e75b6&style=flat" alt="tayjes" /> </p>
+### Electronics & Computer Engineering Undergraduate | Backend Developer | AI/ML | IoT & Embedded Systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tayjes" alt="tayjes" /></a> </p>
+I enjoy building intelligent systems that bridge the gap between **software, hardware, and the real world**. From scalable backend architectures and cloud infrastructure to autonomous IoT devices and AI-powered applications, I love turning complex ideas into practical solutions.
 
-- 🔭 I’m currently working on [Home cloud Server](https://github.com/tayjes/Home_Server)
+- 🎓 B.Tech Electronics and Computer Engineering @ VIT Chennai (2023–2027)
+- 🔭 Currently building: [Home Cloud Server](https://github.com/tayjes/Home_Server)
+- 🌱 Currently exploring: FreeRTOS, Embedded Systems & Cloud Infrastructure
+- 👯 Open to collaborating on: [IoT Reflexology Analysis](https://github.com/tayjes/Insole)
+- 💡 Interested in: Backend Engineering, Distributed Systems, AI/ML, IoT & Robotics
+- 📫 Reach me: **tayjes2005@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1pwqYpNKxTFwrzR5fa6MNmJwTiWEJ-O0H/view?usp=drive_link)
 
-- 🌱 I’m currently learning **FreeRTOS**
+---
 
-- 👯 I’m looking to collaborate on [IOT-Reflexology analysis](https://github.com/tayjes/Insole)
+## 💻 Tech Stack & Tools
 
-- 🤝 I’m looking for help with [Cloud Storage App](https://github.com/tayjes/Project)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-- 📫 How to reach me **tayjes2005@gmail.com**
+### Backend & App Development
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pwqYpNKxTFwrzR5fa6MNmJwTiWEJ-O0H/view?usp=drive_link](https://drive.google.com/file/d/1pwqYpNKxTFwrzR5fa6MNmJwTiWEJ-O0H/view?usp=drive_link)
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tayjes-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayjes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tayjes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tayjes" height="30" width="40" /></a>
+### AI / ML, Embedded & DevOps
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Network Scanner & Camera Detection System
+**C++ | Python | FastAPI | OpenCV | Scapy | Pybind11 | Docker**
+
+- Developed a high-performance Layer-2 ARP scanner using C++ raw sockets.
+- Scans complete /24 subnets in under 2 seconds.
+- Implemented MAC vendor fingerprinting using a 40,000+ entry OUI database.
+- Built IP camera detection, RTSP stream discovery and live MJPEG streaming.
+- Integrated a FastAPI and OpenCV proxy inside a headless Docker container.
+
+### 🌱 Agri Rover
+**C++ | Node.js | Flutter | MongoDB | Firebase | IoT**
+
+- Built an autonomous IoT rover with low-level motor control and real-time sensor feedback.
+- Developed REST APIs and a Flutter application for remote monitoring.
+- Integrated soil analysis, automated seed sowing and ML-driven irrigation scheduling.
+- Reduced manual agricultural labour by 40% and improved crop yield predictability by 25%.
+
+### ☁️ Home Cloud Server
+**Backend | Cloud Infrastructure | Self-hosting**
+
+- Currently working on a personal cloud server project.
+- [Explore Repository](https://github.com/tayjes/Home_Server)
+
+### 🦶 IoT Reflexology Analysis
+**IoT | Embedded Systems | Data Analysis**
+
+- Exploring intelligent insole-based reflexology analysis.
+- [Explore Repository](https://github.com/tayjes/Insole)
+
+---
+
+## 💼 Experience
+
+**Python Developer Intern — Overload Ware Labs AI**  
+*July 2025 – August 2025*
+
+- Designed a modular FastAPI backend with JWT authentication, Pydantic validation and password hashing.
+- Built file management APIs processing 100+ file requests daily.
+- Optimized metadata retrieval speed by 25%.
+- Developed a Flutter interface with Lottie animations.
+- Containerized the application using Docker, reducing cloud setup time by 50%.
+
+**IoT Developer Intern — ARCEDUS TECH**  
+*May 2025 – June 2025*
+
+- Integrated encoders, motors, GPS and LoRa sensors with ML models.
+- Developed IoT features for a Flutter-based agricultural application.
+- Led a 5-member team in developing automation and monitoring features.
+- Reduced manual farm labour by 60% through automation.
+- Developed predictive ML models for crop analytics, improving farm decision accuracy by 40%.
+
+---
+
+## 🏆 Achievements & Certifications
+
+- 🥉 **3rd Place** – NAF's UZHAVU Hackathon, Shaastra, IIT Madras.
+- ☁️ AWS Certified Cloud Practitioner – Amazon Web Services.
+- 🤖 Building Generative AI-Powered Applications with Python – IBM.
+- ⚙️ DevOps, Agile, and Design Thinking – IBM.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tayjes&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayjes&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tayjes&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/tayjes-p">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/tayjes">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:tayjes2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tayjes&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Building at the intersection of code, intelligence, and hardware."</i>
+</p>
